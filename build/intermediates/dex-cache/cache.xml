@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.clarifai\clarifai-api-java\1.2.0\beeed9cff42edad3f6e103dd409e80da9825a6d1\clarifai-api-java-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="beeed9cff42edad3f6e103dd409e80da9825a6d1">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\clarifai-api-java-1.2.0_dd0e5c1bbf16299790196836e9c51a737e6fc6af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_0b9699a82e43043aa3c03be6fc6d80b54e0296d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_18ad9a4a854df034eb8f9abfd27d461698785507.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_9d4110f6193e0f29b55aee900dd4351db6f53b0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.0\7d0473896b3b10b23a2f9812fec4316dff8afdd\firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.0_ed965ee55dcd6e2d1ba6ee9870ea143f9d01e3b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_ce6ea821063529c261761c498e58a31348721eef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_0020545ceb8de6b5ef48feb32ea9ff4982a3ddde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_4c8fb30a88ec1e422008792c944f1e6c692d57ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_b34a213bb73f83d2e3894fac9748947a0f4971ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\gson-2.3.1_d399caf4cdefe3fb19dbf5eeddbcf3f2bfff880c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_285b36713afea7d78bac02be9fb09c73f72ec39e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_9dc921947a7099c22c5e255b22a25f27e1026d81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_926966417aefb68c439e9bf1a81864a1d6723473.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mitchell\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.0\c0af904657634f7ab9cc21e75d80250570033321\firebase-client-jvm-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="C:\Users\Mitchell\Desktop\LazyTag\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.0_5bd69891f2c3cd7da37524f3bb44f0b03dee82fe.jar" />
+    </item>
+
+</items>
