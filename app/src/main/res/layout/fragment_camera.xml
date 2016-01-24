@@ -15,7 +15,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="doaijwdojw"
+        android:text="Loading Image..."
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
         />
 
 
